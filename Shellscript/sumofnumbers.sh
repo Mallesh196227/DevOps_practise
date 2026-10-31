@@ -4,7 +4,8 @@
 
 NUMBER1=100
 NUMBER2=200
-Name="Devops"
+
+Name="Mallesh"
 
 sum=$((NUMBER1 + NUMBER2))
 # sum=$((NUMBER1 + NUMBER2 + Name))  # This is not valid arithmetic because Name is not numeric
